@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/clearanceselector.tsx","./src/components/compliancechart.tsx","./src/components/deadlinespanel.tsx","./src/components/flaggedcontractstable.tsx","./src/components/kpicard.tsx","./src/components/spendtrendchart.tsx","./src/data/mockdashboard.ts","./src/types/dashboard.ts"],"version":"5.6.3"}
